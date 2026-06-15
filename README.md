@@ -6,6 +6,7 @@ The Hangman Game is a simple text-based Python project where the player tries to
 
 This project was developed as part of the CodeAlpha Python Programming Internship and demonstrates the use of Python fundamentals such as loops, conditional statements, lists, strings, and the random module.
 
+
 ✨ Features
 
 Random word selection from a predefined list
@@ -47,8 +48,10 @@ User Input Handling
 
 Through this project, I gained practical experience in Python programming, problem-solving, and building interactive console applications. It helped me strengthen my understanding of programming logic and user interaction.
 
+
 👨‍💻 Internship
 
 CodeAlpha Python Programming Internship
+
 
 Developer: Ishwarya.S
